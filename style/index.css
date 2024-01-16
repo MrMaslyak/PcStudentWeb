@@ -1,0 +1,120 @@
+.container1 {
+  width: 950px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: auto;
+  background-color: brown;
+}
+
+body {
+  margin: auto;
+  background-color: grey;
+}
+
+.container2 {
+  width: 950px;
+  display: flex;
+  background-color: black;
+  margin: 0px auto;
+}
+
+.container3 {
+  width: 950px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(110, 104, 104);
+  margin: 0px auto;
+}
+
+.red {
+  text-indent: 1em;
+  color: white;
+  font-size: 30px;
+  padding: 30px;
+}
+
+.red2 {
+  color: white;
+  text-indent: 1.5em;
+  font-size: 18px;
+  position: relative;
+  bottom: 50px;
+  left: 30px;
+  max-width: 573px;
+}
+
+.polos {
+  color: grey;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 5px;
+}
+
+#square {
+  width: 700px;
+  margin-top: 15px;
+  background: white;
+}
+
+#rectangle {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  color: black;
+  width: 190px;
+  border: 2px solid black;
+}
+
+.lisence {
+  font-size: 20px;
+  color: goldenrod;
+  padding: 10px;
+  margin: -5px 20px;
+}
+
+img {
+  float: left;
+}
+
+.clearfix {
+  clear: both;
+  font-size: 20px;
+  color: goldenrod;
+  padding: 10px;
+  margin: -5px 20px;
+}
+
+.ggrey {
+  color: lightslategray;
+}
+
+.Categ {
+  padding: 20px;
+}
+
+.spisok {
+  text-decoration: none;
+  color: goldenrod;
+}
+
+.css {
+  font-size: 10px;
+  text-align: center;
+}
+
+.probel {
+  margin: 0px 30px;
+}
+
+.ylitka {
+  display: inline-flex;
+}
+
+ul {
+  margin: 0px;
+}
+
+.qwerty {
+  list-style-type: square;
+}
